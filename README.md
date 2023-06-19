@@ -1,5 +1,5 @@
 # memory-game-javascript
 
-Demo : https://game.enessahin.dev
+Demo : https://memory.enessahin.dev
 
 ![images](/memory-game.png)
